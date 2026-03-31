@@ -1,0 +1,3 @@
+LIBRARY labasp17v4
+EXPORTS
+    _random_range

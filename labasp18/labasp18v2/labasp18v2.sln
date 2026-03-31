@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "labasp18v2", "labasp18v2\labasp18v2.vcxproj", "{32150FAB-30E2-469C-8B98-F5D261DDC702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Debug|x64.ActiveCfg = Debug|x64
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Debug|x64.Build.0 = Debug|x64
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Debug|x86.ActiveCfg = Debug|Win32
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Debug|x86.Build.0 = Debug|Win32
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Release|x64.ActiveCfg = Release|x64
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Release|x64.Build.0 = Release|x64
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Release|x86.ActiveCfg = Release|Win32
+		{32150FAB-30E2-469C-8B98-F5D261DDC702}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E275CC0-19D3-4C14-9E20-C26C01311850}
+	EndGlobalSection
+EndGlobal

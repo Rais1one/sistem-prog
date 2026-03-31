@@ -1,0 +1,3 @@
+LIBRARY labasp16v2
+EXPORTS
+    _solve_quadratic
